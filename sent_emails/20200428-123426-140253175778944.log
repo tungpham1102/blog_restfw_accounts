@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: tungpham@gmail.com
+Date: Tue, 28 Apr 2020 12:34:26 -0000
+Message-ID: <158807726630.3772.3247844586200476629@tungpham-T480>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/password-reset-confirm/Mg/5g1-1787cece86f6ef4b5fa3/
+
+Your username, in case you’ve forgotten: tungpham
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
